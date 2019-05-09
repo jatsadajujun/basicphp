@@ -3,9 +3,9 @@
 echo "Hello PHP<br>";
 //คำสั้งเเสดงผมเเบบที่ 2//
 
-print "Hello PHP";
+print "Hello PHP22222";
 ?>
 
 //คำสั้งเเสดงผมเเบบที่ 3//
-<?="Hello PHP";?>
+<?="Hello PHP22222";?>
 
